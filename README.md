@@ -61,6 +61,33 @@ My contribution: UI preview and model documentation.
 **Harmonic Resonance Forest**
 - [PR #224 — GPU memory and dimensionality fixes](https://github.com/Devanik21/Harmonic-Resonance-Forest/pull/224) — Closed, not merged.
 
+
+## My Open-Source Contributions
+
+This repository is a fork of
+[Brijeshthummar02/NeuroVision](https://github.com/Brijeshthummar02/NeuroVision).
+
+I contributed documentation improvements to help developers
+understand the project and get started with contributing.
+
+### Accepted Contributions
+
+- [PR #8](https://github.com/Brijeshthummar02/NeuroVision/pull/8):
+  Updated README highlights and architecture documentation.
+- [PR #10](https://github.com/Brijeshthummar02/NeuroVision/pull/10):
+  Added project contributing guidelines.
+
+Both pull requests were merged into the original repository.
+
+### Contribution Focus
+
+- Technical documentation
+- Repository onboarding
+- Open-source collaboration
+
+Original project ownership and implementation remain with the
+original project maintainers and contributors.
+
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shailee-kadia-801696245/
