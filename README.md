@@ -51,18 +51,7 @@ My contribution: UI preview and model documentation.
 - [PR #8 — README highlights and architecture](https://github.com/Brijeshthummar02/NeuroVision/pull/8) — Merged.
 - [PR #10 — Contributing guidelines](https://github.com/Brijeshthummar02/NeuroVision/pull/10) — Merged.
 
-**CricScope**
-- [PR #57 — UI preview and model documentation](https://github.com/Arnav-Singh-5080/CricScope/pull/57) — Merged.
-
-**Career-Pilot**
-- [PR #2873 — Spotify Wrapped portfolio template](https://github.com/anurag3407/career-pilot/pull/2873) — Open.
-- [PR #2874 — Component fixes and dependency updates](https://github.com/anurag3407/career-pilot/pull/2874) — Open.
-
-**Harmonic Resonance Forest**
-- [PR #224 — GPU memory and dimensionality fixes](https://github.com/Devanik21/Harmonic-Resonance-Forest/pull/224) — Closed, not merged.
-
-
-## My Open-Source Contributions
+- ## My Open-Source Contributions
 
 This repository is a fork of
 [Brijeshthummar02/NeuroVision](https://github.com/Brijeshthummar02/NeuroVision).
@@ -87,6 +76,67 @@ Both pull requests were merged into the original repository.
 
 Original project ownership and implementation remain with the
 original project maintainers and contributors.
+
+
+**CricScope**
+- [PR #57 — UI preview and model documentation](https://github.com/Arnav-Singh-5080/CricScope/pull/57) — Merged.
+
+
+## My Open-Source Contributions
+
+This repository is a fork of
+[Arnav-Singh-5080/CricScope](https://github.com/Arnav-Singh-5080/CricScope).
+
+### Accepted Contribution
+
+- [PR #57](https://github.com/Arnav-Singh-5080/CricScope/pull/57)
+  - Added UI preview documentation.
+  - Improved model evaluation documentation.
+  - Improved README presentation and project structure information.
+
+Status: Merged into the original repository.
+
+### What I Learned
+
+- Understanding an existing Python project structure.
+- Communicating technical information through documentation.
+- Working with GitHub pull requests and code review workflows.
+
+Original project implementation remains attributed to its original
+authors and contributors.
+
+
+**Career-Pilot**
+- [PR #2873 — Spotify Wrapped portfolio template](https://github.com/anurag3407/career-pilot/pull/2873) — Open.
+- [PR #2874 — Component fixes and dependency updates](https://github.com/anurag3407/career-pilot/pull/2874) — Open.
+
+- 
+## My Open-Source Contributions
+
+This repository is a fork of
+[anurag3407/career-pilot](https://github.com/anurag3407/career-pilot).
+
+### Submitted Contributions
+
+1. [PR #2873 — Spotify Wrapped Portfolio Template](https://github.com/anurag3407/career-pilot/pull/2873)
+   - Proposed a scroll-based portfolio experience.
+   - Added animated sections for skills, projects, experience and contact.
+
+2. [PR #2874 — Spotify Wrapped Component Fixes](https://github.com/anurag3407/career-pilot/pull/2874)
+   - Submitted component structure fixes.
+   - Updated dependency lockfile.
+   - Cleaned up the frontend template structure.
+
+Status: Both pull requests are currently open.
+Their final acceptance is pending maintainer review.
+
+Original project ownership remains with the original maintainers.
+
+
+**Harmonic Resonance Forest**
+- [PR #224 — GPU memory and dimensionality fixes](https://github.com/Devanik21/Harmonic-Resonance-Forest/pull/224) — Closed, not merged.
+
+
 
 ## 📫 Connect With Me
 
